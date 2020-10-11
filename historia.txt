@@ -1,2 +1,4 @@
-Este archivo es historia.txt
+Este archivo es sobre la vida
 naci en colombia y tengo 23 años
+
+hoy halaremos de la vida
