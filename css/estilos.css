@@ -2,3 +2,11 @@ body {
     font-family: arial;
     background-color: blue;
 }
+.cabecera {
+    width: 100%;
+}
+.cabecera h1 {
+    width: 100%;
+    color: green;
+    background-color: lightcyan;
+}
